@@ -38,7 +38,7 @@ A decentralized fundraising platform ensuring transparency and fund security thr
 ---
 
 ### 📫 Let's Connect
-- **X (Twitter):** [@0xhim_](https://x.com/0xhimxa)
+- **X (Twitter):** [@himxa](https://x.com/0xhimxa)
 - **Email:** himxa0x@gmail.com
 - **Location:** Nigeria 🇳🇬
 
