@@ -1,46 +1,43 @@
-# Hi there, I'm Himxa 👋 
-**Smart Contract Engineer | Full-Stack Web3 Developer**
+# ⚡ Himxa 
 
-I am a passionate developer focused on building secure, scalable decentralized applications. My expertise lies in bridging the gap between complex blockchain logic and intuitive user experiences. I thrive on solving challenges in DeFi, GameFi, and protocol architecture.
+**Smart Contract Engineer | Full-Stack Web3 Developer** *Building secure, scalable decentralized protocols in DeFi & GameFi.*
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### 🛠️ Tech Stack
 
-- **Languages:** Solidity, TypeScript, JavaScript,
-- **Blockchain:**  Foundry, Ethers.js, Wagmi, OpenZeppelin
-- **Frontend:** React.js, Next.js, Tailwind CSS
-- **Backend/Tools:** Node.js, express,Git, Chainlink VRF/Keepers
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Languages** | ![Solidity](https://img.shields.io/badge/-Solidity-363636?logo=solidity) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) |
+| **Blockchain** | `Foundry` `Hardhat` `Ethers.js` `Wagmi` `OpenZeppelin` |
+| **Frontend** | `Next.js` `React.js` `Tailwind CSS` |
+| **Backend/Infra** | `Node.js` `Express` `Chainlink VRF/Keepers` `Git` |
 
 ---
 
 ### 🚀 Featured Projects
 
-#### [Margin Blade Protocol](https://github.com/0xHimxa/margin-blade-protocol)
-A collateralized GameFi protocol featuring dynamic NFTs, stablecoin integration ($EDGE), and Chainlink VRF-powered battle mechanics.
-* **Key Tech:** Solidity,Foundry, Chainlink, OpenZeppelin ERC20/ERC721.
+#### ⚔️ [Margin Blade Protocol](https://github.com/0xHimxa)
+> Collateralized GameFi protocol featuring dynamic NFTs and Chainlink VRF battle mechanics.
+- **Tech:** `Solidity`, `Foundry`, `Chainlink`, `ERC721`
 
-#### [Stable Coin System](https://github.com/0xHimxa/stable-coin)
-An algorithmic/collateral-backed stablecoin implementation focused on peg-maintenance and minting/burning logic.
-* **Key Tech:** Solidity, Math-heavy smart contracts.
+#### 💵 [Stable Coin System](https://github.com/0xHimxa)
+> Algorithmic/collateral-backed stablecoin focused on peg maintenance and minting logic.
+- **Tech:** `Solidity`, `Advanced Math`, `System Architecture`
 
-#### [Crowdfund-DApp](https://github.com/0xHimxa/crowndFundRaise)
-A decentralized fundraising platform ensuring transparency and fund security through smart contract escrow.
-* **Key Tech:** Solidity, Foundry.
-
----
-
-### 📊 GitHub Stats
-
-![Himxa's GitHub stats](https://github-readme-stats.vercel.app/api?username=0xHimxa&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0xHimxa&layout=compact&theme=tokyonight)
+#### 🤝 [Crowdfund-DApp](https://github.com/0xHimxa)
+> Decentralized fundraising platform ensuring transparency through smart contract escrow.
+- **Tech:** `React`, `Solidity`, `Ethers.js`
 
 ---
 
-### 📫 Let's Connect
-- **X (Twitter):** [@himxa](https://x.com/0xhimxa)
-- **Email:** himxa0x@gmail.com
-- **Location:** Nigeria 🇳🇬
+### 📊 GitHub Activity
+
+![Himxa's GitHub stats](https://github-readme-stats.vercel.app/api?username=0xHimxa&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0xHimxa&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
-*"Building the infrastructure for a decentralized world, one block at a time."*
+
+### 📫 Connect with me
+[<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />](https://x.com/0xhimxa)
+[<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:himxa0x@gmail.com)
