@@ -1,4 +1,4 @@
-# ⚡ Himxa 
+#  Himxa 
 
 **Smart Contract Engineer | Full-Stack Web3 Developer** *Building secure, scalable decentralized protocols in DeFi & GameFi.*
 
@@ -15,7 +15,7 @@
 
 ---
 
-### 🚀 Featured Projects
+###  Featured Projects
 
 ####  [ ParityPool](https://github.com/0xHimxa/ParityPool)
 >  Adecentralized, automated raffle system built on Ethereum/Polygon. Users purchase entry tokens at a fixed USD-pegged price using ETH, powered by Chainlink Price Feeds. The protocol utilizes Chainlink Automation to trigger draws and Chainlink VRF (Verifiable Random Function) to ensure every winner is selected with mathematically provable fairness.
@@ -23,11 +23,11 @@
 
 - **Tech:** `Solidity`, `Foundry`, `Chainlink`, `Openzeppelin`
 
-#### 💵 [Stable Coin System](https://github.com/0xHimxa/stable-coin)
+####  [Stable Coin System](https://github.com/0xHimxa/stable-coin)
 > Algorithmic/collateral-backed stablecoin focused on peg maintenance and minting logic.
 - **Tech:** `Solidity`, `Advanced Math`, `System Architecture`
 
-#### 🤝 [Shettule](https://github.com/0xHimxa/shuttle-backend)
+####  [Shettule](https://github.com/0xHimxa/shuttle-backend)
 > BusBooking Backend – A scalable RESTful API for intercity bus travel booking, inspired by FlixBus. Features include route management, schedule search, seat reservation, user authentication, payment integration, and admin tools..
 - **Tech:** `Ts`, `OpenRoustes severce`, `Transitland Service, MangoDB, express`
 
