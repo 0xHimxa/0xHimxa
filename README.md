@@ -18,7 +18,7 @@
 ###  Featured Projects
 
 ####  [ ParityPool](https://github.com/0xHimxa/ParityPool)
->  Adecentralized, automated raffle system built on Ethereum/Polygon. Users purchase entry tokens at a fixed USD-pegged price using ETH, powered by Chainlink Price Feeds. The protocol utilizes Chainlink Automation to trigger draws and Chainlink VRF (Verifiable Random Function) to ensure every winner is selected with mathematically provable fairness.
+>  Adecentralized, automated raffle system built on Ethereum/Polygon. Users purchase  tokens at a fixed USD-pegged price using ETH  which can be you to buy tickets, powered by Chainlink Price Feeds. The protocol utilizes Chainlink Automation to trigger draws and Chainlink VRF (Verifiable Random Function) to ensure every winner is selected with mathematically provable fairness.
 
 
 - **Tech:** `Solidity`, `Foundry`, `Chainlink`, `Openzeppelin`
