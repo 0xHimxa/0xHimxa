@@ -1,19 +1,6 @@
 #  Himxa 
 
-**Smart Contract Engineer | Full-Stack Web3 Developer** *Building secure, scalable decentralized protocols in DeFi & GameFi.*
-
----
-
-### 🛠️ Tech Stack
-
-| Category | Tools & Technologies |
-| :--- | :--- |
-| **Languages** | ![Solidity](https://img.shields.io/badge/-Solidity-363636?logo=solidity) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) |
-| **Blockchain** | `Foundry` `Hardhat` `Ethers.js` `Wagmi` `OpenZeppelin` |
-| **Frontend** | `Next.js` `React.js` `Tailwind CSS` |
-| **Backend/Infra** | `Node.js` `Express` `Chainlink VRF/Keepers` `Git` |
-
----
+**Smart Contract Engineer**
 
 ###  Featured Projects
 
