@@ -79,7 +79,7 @@ Hub-spoke CCIP topology with dual-path canonical price sync and a 4-band deviati
  
 <div align="center">
  
-### [GeoChain — Autonomous Cross-Chain Prediction Markets](https://github.com/0xHimxa/geochain)
+### [GeoChain — Autonomous Cross-Chain Prediction Markets]([https://github.com/0xHimxa/geochain](https://github.com/0xHimxa/GeoChain-contrat/tree/moving-from-CPMM-to-LMSR))
  
 *An LMSR prediction market protocol where no human operator is needed.*<br/>
 *Markets are created by AI, priced by math, resolved autonomously, and kept in sync across chains.*
