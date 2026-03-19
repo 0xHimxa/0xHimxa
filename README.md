@@ -19,12 +19,18 @@
 </p>
  
 <div align="center">
+    <a href="https://x.com/0xhimxa">
+    <img src="https://img.shields.io/badge/@YOUR__X__HANDLE-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
+  </a>
+
   <a href="mailto:himxa0x@gmail.com">
     <img src="https://img.shields.io/badge/himxa0x@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
+  <a href="https://t.me/himxa">
+    <img src="https://img.shields.io/badge/@YOUR__TELEGRAM__HANDLE-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+  </a>
   <img src="https://img.shields.io/badge/Open%20to%20Work-Protocol%20%7C%20Smart%20Contract%20%7C%20DeFi-00D9FF?style=for-the-badge" alt="Open to Work"/>
 </div>
- 
 <br/>
  
 <!-- Snake animation - update the username to your actual GitHub username -->
